@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: file-config
+data:
+  variant: staging
+  hoge: piyo
